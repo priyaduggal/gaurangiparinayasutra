@@ -1,0 +1,5 @@
+/*your custom css goes here*/
+
+.position-absolute.w-100.top-0.z-1020 {
+    position: relative !important;
+}

@@ -1,0 +1,188 @@
+[24-Jul-2022 12:15:36 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [login] not defined. in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('login', Array, true)
+#1 /home/vzqr9sbtjij3/public_html/storage/framework/views/85435689adc15b1746518bd200b3b3c018b5d49c.php(147): route('login')
+#2 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/vzqr9sbtj...')
+#3 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/vzqr9sbtj...', Array)
+#5 /home/vzqr9sbtjij3/public_html/ in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[30-Jul-2022 14:11:04 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/vzqr9sbtjij3/public_html/storage/framework/views/85435689adc15b1746518bd200b3b3c018b5d49c.php(165): route('home')
+#2 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/vzqr9sbtj...')
+#3 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/vzqr9sbtj...', Array)
+#5 /home/vzqr9sbtjij3/public_html/ven in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[30-Jul-2022 14:13:58 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/vzqr9sbtjij3/public_html/storage/framework/views/85435689adc15b1746518bd200b3b3c018b5d49c.php(165): route('home')
+#2 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/vzqr9sbtj...')
+#3 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/vzqr9sbtj...', Array)
+#5 /home/vzqr9sbtjij3/public_html/ven in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[30-Jul-2022 14:15:29 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/vzqr9sbtjij3/public_html/storage/framework/views/85435689adc15b1746518bd200b3b3c018b5d49c.php(165): route('home')
+#2 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/vzqr9sbtj...')
+#3 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/vzqr9sbtj...', Array)
+#5 /home/vzqr9sbtjij3/public_html/ven in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[30-Jul-2022 14:15:36 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/vzqr9sbtjij3/public_html/storage/framework/views/85435689adc15b1746518bd200b3b3c018b5d49c.php(165): route('home')
+#2 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/vzqr9sbtj...')
+#3 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/vzqr9sbtj...', Array)
+#5 /home/vzqr9sbtjij3/public_html/ven in /home/vzqr9sbtjij3/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[03-Aug-2022 13:55:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#2 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [ in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 705
+[03-Aug-2022 13:55:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#2 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [ in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 705
+[03-Aug-2022 13:58:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#2 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [ in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 705
+[03-Aug-2022 14:03:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#2 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [ in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 705
+[03-Aug-2022 14:04:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#2 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [ in /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 705
+[03-Aug-2022 20:41:20 Asia/Dhaka] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/nlpebcec0m70/public_html/storage/framework/views/51f8688a3f59f6e32c99fc921f7749eba7782498.php:159
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#2 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/nlpebcec0...', Array)
+#3 /home/nlpebcec0m70/public_html/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/nlpebcec0...', Array)
+#4 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Facade\Ig in /home/nlpebcec0m70/public_html/resources/views/frontend/layouts/app.blade.php on line 158
+[03-Aug-2022 20:41:20 Asia/Dhaka] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/nlpebcec0m70/public_html/storage/framework/views/51f8688a3f59f6e32c99fc921f7749eba7782498.php:159
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#2 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/nlpebcec0...', Array)
+#3 /home/nlpebcec0m70/public_html/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/nlpebcec0...', Array)
+#4 /home/nlpebcec0m70/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Facade\Ig in /home/nlpebcec0m70/public_html/resources/views/frontend/layouts/app.blade.php on line 158
+[25-Aug-2022 23:06:13 Asia/Dhaka] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected '--' (T_DEC) in /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php:85
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/nlpebcec0...', Array)
+#3 /home/nlpebcec0m70/public_html/dev/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/nlpebcec0...', Array)
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/View.php(139): Facade\Ignitio in /home/nlpebcec0m70/public_html/dev/resources/views/frontend/inc/header.blade.php on line 85
+[25-Aug-2022 23:06:24 Asia/Dhaka] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected '--' (T_DEC) in /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php:85
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/nlpebcec0...', Array)
+#3 /home/nlpebcec0m70/public_html/dev/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/nlpebcec0...', Array)
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/View.php(139): Facade\Ignitio in /home/nlpebcec0m70/public_html/dev/resources/views/frontend/inc/header.blade.php on line 85
+[27-Aug-2022 19:32:04 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [privacy-policy] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('privacy-policy', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/6d10564bae9203826d9b17cfa32f49c8edcd7a99.php(191): route('privacy-policy')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpeb in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[27-Aug-2022 19:32:17 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [privacy-policy] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('privacy-policy', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/6d10564bae9203826d9b17cfa32f49c8edcd7a99.php(191): route('privacy-policy')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpeb in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 10:14:31 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [about] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('about', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php(19): route('about')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#5 /home/nl in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 10:14:43 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [about] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('about', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php(19): route('about')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#5 /home/nl in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 10:14:59 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php(19): route('')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#5 /home/nlpebcec0m70/publ in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 10:15:11 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php(19): route('')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#5 /home/nlpebcec0m70/publ in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 10:16:13 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [about] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('about', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php(19): route('about')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#5 /home/nl in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 10:17:36 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [contact] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('contact', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php(25): route('contact')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#5 /h in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 11:22:47 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [/] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('/', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php(13): route('/')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#5 /home/nlpebcec0m70/p in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 11:23:01 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [/] not defined. in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('/', Array, true)
+#1 /home/nlpebcec0m70/public_html/dev/storage/framework/views/eaffcf363968790d1b344edb0b881a3ef49007ac.php(13): route('/')
+#2 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/nlpebcec0...')
+#3 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/nlpebcec0...', Array)
+#5 /home/nlpebcec0m70/p in /home/nlpebcec0m70/public_html/dev/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[24-Sep-2022 17:05:51 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/nlpebcec0m70/public_html/dev/app/Http/Controllers/HomeController.php on line 41
+[24-Sep-2022 17:05:55 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127930368 bytes) in /home/nlpebcec0m70/public_html/dev/app/Http/Controllers/HomeController.php on line 41
+[07-Dec-2022 21:01:54 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7100096 bytes) in /home/nlpebcec0m70/public_html/dev/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 918
+[07-Dec-2022 21:02:01 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7100568 bytes) in /home/nlpebcec0m70/public_html/dev/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 918
+[26-Jan-2023 23:25:38 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125833216 bytes) in /home/nlpebcec0m70/public_html/dev/app/Http/Controllers/HomeController.php on line 213
+[26-Jan-2023 23:25:39 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125833216 bytes) in /home/nlpebcec0m70/public_html/dev/app/Http/Controllers/HomeController.php on line 213
+[26-Jan-2023 23:25:45 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 125833216 bytes) in /home/nlpebcec0m70/public_html/dev/app/Http/Controllers/HomeController.php on line 213
